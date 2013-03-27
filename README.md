@@ -24,6 +24,13 @@ A generic template with no feature files for web testing in cucumber. Some gener
 3. From anywhere, type "gem install capybara" without the quotes.
 4. From anywhere, type "gem install rspec" without the quotes.
 5. If they all installed properly, then you should now have all the gems you will need.
+ 
+###Install ansicon for output in color.
+1. Download the [Ansicon package](http://adoxa.3eeweb.com/ansicon/).
+2. Extract either x64(for 64bit systems) or the x32(for 32bit systems) directory to the bin/ directory where you installed ruby
+3. In the console, cd to the extracted directory (for me it was C:/Ruby192/bin/x64)
+4. Type "ansicon -i" without the quotes
+5. Restart the console to be sure the PATH updates
 
 ###Install Firefox and the Firebug plugin.
 
