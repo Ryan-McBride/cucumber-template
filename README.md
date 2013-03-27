@@ -40,6 +40,10 @@ A generic template with no feature files for web testing in cucumber. Some gener
 
 ##You should now have all you need to run cucumber!
 
-Just cd to wherever you stored this repository (or any cucumber repo) in the console, and type "cucumber" without the quotes.
+Just cd to wherever you stored this repository in the console, and type "cucumber" without the quotes.
+
+You should see a bunch of yellow text explaining a few things about cucumber!
 
 Type "cucumber -f pretty -f html -o "output.html" without the quotes to store the output in html.
+
+From here, you're on your own. I'm so proud.
