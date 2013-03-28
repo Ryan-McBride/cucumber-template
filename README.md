@@ -1,7 +1,7 @@
 Cucumber Template
 =================
 
-A generic template with no feature files for web testing in cucumber. Some general steps for basic web testing. Not intended to be amazing, mostly for my own benefit so I can access this project anywhere.
+A generic template with a starter feature file for web testing in cucumber. Some general steps for basic web testing. Mostly for my own benefit.
 
 ##Steps for installing cucumber in windows.
 
