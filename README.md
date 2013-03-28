@@ -42,7 +42,7 @@ A generic template with a starter feature file for web testing in cucumber. Some
 
 Just cd to wherever you stored this repository in the console, and type "cucumber" without the quotes.
 
-You should see a bunch of yellow text explaining a few things about cucumber!
+You should see a bunch of colorful text explaining a few things about cucumber!
 
 Type "cucumber -f pretty -f html -o "output.html" without the quotes to store the output in html.
 
