@@ -3,18 +3,19 @@ Feature: You did it! You really did it!
 	
 	Scenario: This is a scenario
 		When I put steps in here
-		And I add the code in an rb file id the step_definitions directory
+		And there is matching code in an rb file
 		Then I will able to run code
+
+		When words are green
+		Then the code evaluated as true
 		
-		And if there is code written
-		Given the code works
-		Then it will be green instead of yellow
+		When words are Red, something is broken
+		
+		When words are blue
+		Then the code is being skipped
 		
 		When words are yellow
 		Then there is no code written for it
-		
-		When words are Red
-		Then something is broken
 		
 		# :)
 		

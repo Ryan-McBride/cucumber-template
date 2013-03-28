@@ -58,3 +58,45 @@ When /^I "(.*)" the "(.*)" box$/ do |toggle, box_id|
 	end
 end
 
+############################################################################code to make the feature file pretty
+
+When /^I put steps in here$/ do
+end
+
+When /^there is matching code in an rb file$/ do
+end
+
+When /^I will able to run code$/ do
+end
+
+When /^words are green$/ do
+end
+
+When /^the code evaluated as true$/ do
+end
+
+When /^words are Red, something is broken$/ do
+	a=false
+	a.should == true
+end
+
+When /^words are blue$/ do
+end
+
+When /^the code is being skipped$/ do
+end
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
