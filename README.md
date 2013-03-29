@@ -32,7 +32,7 @@ A generic template with a starter feature file for web testing in cucumber. Some
 
 1. Get rubyinstaller and the corresponding devkit [here.](http://rubyinstaller.org/downloads/)
 2. While Ruby2 CAN work, it doesn't reliably play nicely with cucumber
-3. Be sure to get the proper devkit for ruby 1.9.2. Look under WHICK DEVELOPMENT KIT? on the download page.
+3. Be sure to get the proper devkit for ruby 1.9.2. Look under WHICH DEVELOPMENT KIT? on the download page.
 4. Run the rubyinstaller executable, and check the box for "add to path"
 5. After the installer is done, run the DevKit extractor. I put it in C:/Ruby192/bin/Devkit.
 6. Open the console, and cd to where you extracted the devkit.
