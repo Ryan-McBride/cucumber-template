@@ -3,6 +3,29 @@ Cucumber Template
 
 A generic template with a starter feature file for web testing in cucumber. Some general steps for basic web testing. Mostly for my own benefit.
 
+##Steps for installing cucmber in linux (debian/ubuntu)
+
+###Install Ruby
+1. Open the terminal and enter the following commands:
+
+
+<code>sudo apt-get install ruby</code>
+
+<code>sudo apt-get install ruby-dev</code>
+
+<code>sudo apt-get install libxslt-dev libxml2-dev</code>
+
+<code>sudo gem install cucumber</code>
+
+<code>sudo gem install capybara</code>
+
+<code>sudo gem install rspec</code>
+
+
+2. Once all of that finishes, you should now have Cucumber installed properly! Pat yourself on the back!
+
+
+
 ##Steps for installing cucumber in windows.
 
 ###Install Ruby 1.9.2 and Devkit
