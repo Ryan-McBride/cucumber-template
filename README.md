@@ -15,6 +15,7 @@ sudo apt-get install libxslt-dev libxml2-dev
 sudo gem install cucumber
 sudo gem install capybara
 sudo gem install rspec
+sudo gem install selenium-webdriver
 ```
 
 2. Once all of that finishes, you should now have Cucumber installed properly! Pat yourself on the back!
