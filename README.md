@@ -20,10 +20,15 @@ rvm install 1.9.3
 1. Type the following in the terminal.
 ```bash
 gem update --system
+
 gem install rspec --no-rdoc --no-ri
+
 gem install gherkin --no-rdoc --no-ri
+
 gem install cucumber --no-rdoc --no-ri
+
 gem install capybara --no-rdoc --no-ri
+
 gem install selenium-webdriver --no-rdoc --no-ri
 ```
 Once all of the above gems install, you should be ready to rock! Go have an ice cream, you've earned it.
