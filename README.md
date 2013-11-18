@@ -10,6 +10,7 @@ A generic template with a starter feature file for web testing in cucumber. Some
 
 ###Install Ruby
 Ruby comes pre-built on Mac devices, however Mountain Lion ships with Ruby 1.8.2, and we need 1.9.3. For this we will use RVM!
+
 1. Type the following in the terminal.
 
 ```bash
