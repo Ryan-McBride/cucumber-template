@@ -9,7 +9,7 @@ A generic template with a starter feature file for web testing in cucumber. Some
 2. Once it's done installing, download a compatible version of Xcode Command Line Tools for your OS. These can be found [here.](https://developer.apple.com/downloads/index.action?name=for%20Xcode%20-#)
 
 ###Install Ruby
-Ruby comes pre-built on Mac devices, however Mountain Lion ships with Ruby 1.8.2, and we need 1.9.3. For this we will use RVM
+Ruby comes pre-built on Mac devices, however Mountain Lion ships with Ruby 1.8.2, and we need 1.9.3. For this we will use RVM!
 1. Type the following in the terminal.
 ```bash
 \curl -L https://get.rvm.io | bash -s stable
