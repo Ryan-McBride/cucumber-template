@@ -3,6 +3,31 @@ Cucumber Template
 
 A generic template with a starter feature file for web testing in cucumber. Some general steps for basic web testing. Mostly for my own benefit.
 
+##Steps for installing cucumber in Mac OSX Mountain Lion
+###Install Xcode and Xcode Command Line Tools.
+1. Xcode can be found in the App store
+2. Once it's done installing, download a compatible version of Xcode Command Line Tools for your OS. These can be found [here.](https://developer.apple.com/downloads/index.action?name=for%20Xcode%20-#)
+
+###Install Ruby
+Ruby comes pre-built on Mac devices, however Mountain Lion ships with Ruby 1.8.2, and we need 1.9.3. For this we will use RVM
+1. Type the following in the terminal.
+```bash
+\curl -L https://get.rvm.io | bash -s stable
+rvm install 1.9.3
+```
+
+###Install Necessary Rubygems
+1. Type the following in the terminal.
+```bash
+gem update --system
+gem install rspec --no-rdoc --no-ri
+gem install gherkin --no-rdoc --no-ri
+gem install cucumber --no-rdoc --no-ri
+gem install capybara --no-rdoc --no-ri
+gem install selenium-webdriver --no-rdoc --no-ri
+```
+Once all of the above gems install, you should be ready to rock! Go have an ice cream, you've earned it.
+
 ##Steps for installing cucumber in linux (debian/ubuntu)
 
 ###Install Ruby
