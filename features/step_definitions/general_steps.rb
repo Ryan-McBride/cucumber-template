@@ -21,11 +21,7 @@ end #Searches the page for invisible or non-existant text
 
 When /^I fill in "(.*)" with "(.*)"$/ do |field_id, text|
 	#see fields hash for valid ids.
-	if(field_id == "state")
-		select(text, :from => fields[field_id])
-	else
 		fill_in fields[field_id], :with => text
-	end
 end #fills in a field located by id with text
 
 When /^I click "(.*)"$/ do |text|
