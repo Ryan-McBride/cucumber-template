@@ -16,8 +16,11 @@ Homebrew must be installed.
 
 ```bash
 brew install rbenv
+brew install ruby-build
 rbenv install *ruby version* (e.g. 2.1.2)
 ```
+2. Set your installed ruby version as the default
+3. `$ rbenv global *ruby version number*`
 
 ###Install Necessary Rubygems
 1. Type the following in the terminal.
