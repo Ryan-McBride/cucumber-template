@@ -3,7 +3,7 @@ Cucumber Template
 
 A generic template with a starter feature file for web testing in cucumber. Some general steps for basic web testing. Mostly for my own benefit.
 
-##Steps for installing cucumber in Mac OSX Mountain Lion
+##Steps for installing cucumber in Mac OSX
 ###Install Xcode and Xcode Command Line Tools.
 1. Xcode can be found in the App store
 2. Once it's done installing, open the terminal and enter ```xcode-select --install```
